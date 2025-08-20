@@ -1,11 +1,11 @@
 # mark_chart
-# Seaborn Barplot Visualization
+ Seaborn Business Visualization
 
-This repository contains a professional-grade Seaborn visualization showcasing synthetic product revenue data across regions.
+This repository contains a Seaborn-generated barplot that demonstrates product revenue insights.
 
-## Files
-- `chart.py` → Python script to generate the barplot
-- `chart.png` → Generated chart (512x512 pixels)
+- Visualization type: Barplot (`sns.barplot`)
+- Dimensions: 512x512 pixels
+- Exported as: `chart.png`
 
 ## Author
-Email: 23f1001029@ds.study.iitm.ac.in
+Email: <23f1001029@ds.study.iitm.ac.in>
